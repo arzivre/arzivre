@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Fauzi (realname)
 #### I am Web Developer from indonesia
-![I am Web Developer from indonesia](https://github.com/arzivre/JESHO)
+![I am Web Developer from indonesia] (https://github.com/arzivre/JESHO)
 
 I am excited to learn more about Web Development
 

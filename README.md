@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Arzivre
 #### I am Web Developer from indonesia
-![I am Web Developer from indonesia] 
+ 
 
 I am excited to learn more about Web Development
 
 Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- (https://github.com/arzivre/JESHO)
+(https://github.com/arzivre/JESHO)
 
 
 

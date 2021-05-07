@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Fauzi (realname)
+### Hi there 👋, my name is Arzivre
 #### I am Web Developer from indonesia
 ![I am Web Developer from indonesia] 
 

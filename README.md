@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+### Hi there 👋, my name is Fauzi (realname)
+#### I am Web Developer from indonesia
+![I am Web Developer from indonesia](https://github.com/arzivre/JESHO)
+
+I am excited to learn more about Web Development
+
+Skills:  JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 <!--
 **raivier/raivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

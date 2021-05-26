@@ -4,10 +4,6 @@
 
 I am excited to learn more about Web Development , i want create app that help the others
 
-Skills:  JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- (https://github.com/arzivre/JESHO)
 
 
 

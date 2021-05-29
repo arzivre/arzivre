@@ -2,10 +2,7 @@
 #### I am Web Developer from indonesia
  
 
-I am excited to learn more about Web Development , i want create app that help the others
-
-
-
+I'm excited to learn more about Web Development , i like create app with latest tech
 
 
 

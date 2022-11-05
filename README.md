@@ -6,5 +6,5 @@ Web Developer with experience in building web applications such as E-commerce, S
 * Website: https://arzivre.com
 * Twitter: [@arzivre](https://twitter.com/arzivre)
 * Github: [@arzivre](https://github.com/arzivre)
-* LinkedIn: [@muhammad-sony-fauzi](https://www.linkedin.com/in/muhammad-sony-fauzi/)
+* LinkedIn: [Muhammad Sony Fauzi](https://www.linkedin.com/in/muhammad-sony-fauzi/)
 

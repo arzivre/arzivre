@@ -1,23 +1,10 @@
-### Hi there 👋, my name is Arzivre
-#### I am Web Developer from indonesia
- 
-
-I'm excited to learn more about Web Development , and create app with cuting edge tech
+# Hi, I am Muhammad Sony Fauzi
 
 
+Web Developer with experience in building web applications such as E-commerce, SPA, Blog. love to build good UX, fast web. Some technologies I enjoy working with include ReactJS, NextJS, Typescript, Tailwindcss, Prisma, tRPC.
 
+* Website: https://arzivre.com
+* Twitter: [@avneesh0612](https://twitter.com/arzivre)
+* Github: [@avneesh0612](https://github.com/arzivre)
+* LinkedIn: [@avneesh-agarwal-78312b20a](https://www.linkedin.com/in/muhammad-sony-fauzi/)
 
-<!--
-**raivier/raivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
